@@ -3,7 +3,8 @@
   "scripts": {
     "test": "jest"
   },
-  "dependencies": {
+  "devDependencies": {
+    "sinon": "^7.2.7",
     "jest": "^22.4.3"
   },
   "jest": {
