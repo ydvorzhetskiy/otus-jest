@@ -11,7 +11,7 @@ class PersonService {
     }
 
     deleteByName(name) {
-        // TODO: delete by namr
+        // TODO: delete by name
     }
 
     save(person) {
@@ -20,3 +20,5 @@ class PersonService {
         // TODO: insert id exist
     }
 }
+
+module.exports = PersonService;
